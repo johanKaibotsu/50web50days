@@ -2,4 +2,4 @@
 50 webpages in 50 days practice
 
 # Preview 1
-3d-boxes-background-day1/Screen Recording 2021-07-06 at 6.24.40 PM.mov
+https://github.com/johanKaibotsu/50web50days/blob/main/3d-boxes-background-day1/Screen%20Recording%202021-07-06%20at%206.24.40%20PM.mov
